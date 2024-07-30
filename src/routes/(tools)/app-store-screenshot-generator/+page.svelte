@@ -136,7 +136,7 @@
 	  position: relative;
 	  width: 150px;
 	  height: 300px;
-	  border: 1px solid #e42626;
+	  border: 1px solid #f6f4f4;
 	  display: flex;
 	  align-items: center;
 	  justify-content: center;
