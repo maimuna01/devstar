@@ -47,33 +47,6 @@
             }
         ]
     },
-    "app-store-screenshot-generator": {
-        "name": "App Store Screenshort Generator",
-        "link": "/app-store-screenshot-generator",
-        "description": "Our tool makes creating professional app store screenshots easy and efficient. With powerful features, device support, and customization options, it helps you showcase your app beautifully. Enhance your app's visual appeal and make a lasting impression.",
-        "contributors": [
-            {
-                "name": "Nilambari Mahajan",
-                "githubId": "Nilambari-Mahajan"
-            },
-            {
-                "name": "Vaibhav Dingalwar",
-                "githubId": "irrereplacable26"
-            },
-            {
-                "name": "",
-                "githubId": ""
-            },
-            {
-                "name": "",
-                "githubId": ""
-            },
-            {
-                "name": "",
-                "githubId": ""
-            }
-        ]
-    },
     "ascii-encode-decode": {
         "name": "ASCII Encoder & Decoder",
         "link": "/ascii-encode-decode",
@@ -144,9 +117,9 @@
             }
         ]
     },
-    "Gradient-generator": {
+    "gradient-generator": {
         "name": "Gradient Generator",
-        "link": "/Gradient-generator",
+        "link": "/gradient-generator",
         "description": "The Gradient Generator is a tool for Developers which allows you to create Gradient between 2 Colors and Copy its CSS Output.",
         "contributors": [
             {
